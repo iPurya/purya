@@ -20,7 +20,7 @@ Put bot number instead number ...
 
 <h1>License<h1>
 
-*This script have a filter as a license.*
-*Only users can manage their bots who i accept them...*
+This script have a filter as a license.
+Only users can manage their bots who i accept them...
 
-*Contact me for license :* [@Purya](http://t.me/Purya)
+Contact me for license : [@Purya](http://t.me/Purya)
